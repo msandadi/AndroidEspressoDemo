@@ -1,0 +1,393 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:3:1-131:12
+INJECTED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:3:1-131:12
+INJECTED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:3:1-131:12
+INJECTED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:3:1-131:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/97ab857d0a124fe6ffaa0d9b5c9a7477/material-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/7892fca15a325049f033efb1f519445d/jetified-play-services-appindexing-9.8.0/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-base:9.8.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/577134aaea8db4f6ac562b1a057624ea/jetified-play-services-base-9.8.0/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-common:9.8.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/c66db2aa0917d588132f64b6fcb06a71/jetified-firebase-common-9.8.0/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/44c590eb417d32abaa9ba0ab2127dbf8/jetified-play-services-tasks-9.8.0/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/f8db4e8441308857164b6d65849d708e/jetified-play-services-basement-9.8.0/AndroidManifest.xml:16:1-23:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/c88d66619ec8f43ac838aa15100c7630/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.codepath.libraries:asynchttpclient:0.1.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/c5a2c57cafa3e322c4b3f75684a7887d/jetified-asynchttpclient-0.1.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/5dfc181d18e3a4f032df77a0a9b0b712/appcompat-1.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/e4206093b9a45e350dc612d00a381b84/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/1c69513b1c4c2681731248e4bdf3dea9/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/e71cc23e9f419a756f516a04cdb4b514/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/ed631860366d2431772b05c37dea72fa/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/972e4e8c56534b8b7edcad39cbcb1475/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/a56835e094a6f5a1d9bf8d5040e8cd94/transition-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/4c180ce42d5e5ff0386c56b48c8f03ec/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/389518eb7053a2c7a204df84ba6b66f7/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/e5d2a05c2a9da194610e056d736306cb/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/a8e60fa5adc4c9e4741e812d49e0f94e/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/6f56ef3fa06b1f448b8e75b596d4ef77/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/60f1f3386cbf00609d648d8f0647aaff/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/762bdf8d12f745b4783b848ecd2496ff/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/0968bae626bcece65791d08a4fff4993/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/5b2ecece958ec2f11452775be3c19f79/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/9c38a47f948754fe6306b7bf3155014b/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/644c6c21b0c6112596c37bce273651e7/vectordrawable-1.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/95246d214b9272a67f5e32aef14d289e/core-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/9119b921e1c49476d500fbb8512b747a/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/d7193147788872c0b27c94ab90dfc2ab/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/e2787de6841bee5c6c9584d51f2305b2/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/dc2dae51d49e25fa750583a5f511d50c/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/ed0de98415013de3fdbcc823866cf386/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/2e280ca0b8e4d3d46312ed0b649fa12b/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/667e65f075c1064bff80cdcd97d456f3/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.1] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/e8a2dd36019fe2cc80b35405d10af58c/jetified-stetho-okhttp3-1.5.1/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.stetho:stetho:1.5.1] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/a28f0ba6fb20525b271956ce3bfeafd1/jetified-stetho-1.5.1/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/4074efa5e2edd1df1cc1644f3ddf8eae/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/fdef9e23296ba4cb0938eae8aad4efde/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/d5042bcee50fd9ba684f2391b663016a/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/bd636c1699aa65212bfad6c4b658c7e4/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:3:1-131:12
+INJECTED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:3:1-131:12
+INJECTED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:3:1-131:12
+	package
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:4:5-45
+		INJECTED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:6:5-30
+		INJECTED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:3:11-69
+	android:versionCode
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:5:5-28
+		INJECTED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:8:22-64
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:9:5-71
+	android:name
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:9:22-69
+application
+ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:11:5-129:19
+MERGED from [com.google.android.material:material:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/97ab857d0a124fe6ffaa0d9b5c9a7477/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/97ab857d0a124fe6ffaa0d9b5c9a7477/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/7892fca15a325049f033efb1f519445d/jetified-play-services-appindexing-9.8.0/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/7892fca15a325049f033efb1f519445d/jetified-play-services-appindexing-9.8.0/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:9.8.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/577134aaea8db4f6ac562b1a057624ea/jetified-play-services-base-9.8.0/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:9.8.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/577134aaea8db4f6ac562b1a057624ea/jetified-play-services-base-9.8.0/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-common:9.8.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/c66db2aa0917d588132f64b6fcb06a71/jetified-firebase-common-9.8.0/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:9.8.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/c66db2aa0917d588132f64b6fcb06a71/jetified-firebase-common-9.8.0/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/44c590eb417d32abaa9ba0ab2127dbf8/jetified-play-services-tasks-9.8.0/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/44c590eb417d32abaa9ba0ab2127dbf8/jetified-play-services-tasks-9.8.0/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/f8db4e8441308857164b6d65849d708e/jetified-play-services-basement-9.8.0/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/f8db4e8441308857164b6d65849d708e/jetified-play-services-basement-9.8.0/AndroidManifest.xml:19:5-21:19
+MERGED from [androidx.core:core:1.0.1] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/95246d214b9272a67f5e32aef14d289e/core-1.0.1/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/95246d214b9272a67f5e32aef14d289e/core-1.0.1/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/9119b921e1c49476d500fbb8512b747a/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/9119b921e1c49476d500fbb8512b747a/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.1] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/e8a2dd36019fe2cc80b35405d10af58c/jetified-stetho-okhttp3-1.5.1/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.1] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/e8a2dd36019fe2cc80b35405d10af58c/jetified-stetho-okhttp3-1.5.1/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho:1.5.1] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/a28f0ba6fb20525b271956ce3bfeafd1/jetified-stetho-1.5.1/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho:1.5.1] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/a28f0ba6fb20525b271956ce3bfeafd1/jetified-stetho-1.5.1/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/95246d214b9272a67f5e32aef14d289e/core-1.0.1/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:13:9-45
+	android:allowBackup
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:15:9-40
+activity#codepath.apps.demointroandroid.DemoSelector
+ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:17:13-71
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:22:27-74
+activity#codepath.apps.demointroandroid.BasicTextViewActivity
+ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:25:9-28:20
+	android:label
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:27:13-67
+	android:name
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:26:13-80
+activity#codepath.apps.demointroandroid.LinearLayoutDemoActivity
+ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:29:9-32:20
+	android:label
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:31:13-70
+	android:name
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:30:13-83
+activity#codepath.apps.demointroandroid.LayoutGravityActivity
+ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:33:9-36:20
+	android:label
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:35:13-66
+	android:name
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:34:13-80
+activity#codepath.apps.demointroandroid.BasicViewsActivity
+ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:37:9-40:20
+	android:label
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:39:13-63
+	android:name
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:38:13-77
+activity#codepath.apps.demointroandroid.ViewAttributesActivity
+ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:41:9-44:20
+	android:label
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:43:13-67
+	android:name
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:42:13-81
+activity#codepath.apps.demointroandroid.SimpleListViewActivity
+ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:45:9-48:20
+	android:label
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:47:13-68
+	android:name
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:46:13-81
+activity#codepath.apps.demointroandroid.BasicClickHandlersActivity
+ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:49:9-52:20
+	android:label
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:51:13-72
+	android:name
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:50:13-85
+activity#codepath.apps.demointroandroid.ButtonToastActivity
+ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:53:9-56:20
+	android:label
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:55:13-64
+	android:name
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:54:13-78
+activity#codepath.apps.demointroandroid.ListViewClicksActivity
+ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:57:9-60:20
+	android:label
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:59:13-68
+	android:name
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:58:13-81
+activity#codepath.apps.demointroandroid.ExplicitIntentActivity
+ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:61:9-64:20
+	android:label
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:63:13-67
+	android:name
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:62:13-81
+activity#codepath.apps.demointroandroid.ImplicitIntentsActivity
+ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:65:9-68:20
+	android:label
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:67:13-68
+	android:name
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:66:13-82
+activity#codepath.apps.demointroandroid.IntentWithResultActivity
+ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:69:9-72:20
+	android:label
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:71:13-70
+	android:name
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:70:13-83
+activity#codepath.apps.demointroandroid.ActionBarMenuActivity
+ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:73:9-76:20
+	android:label
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:75:13-67
+	android:name
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:74:13-80
+activity#codepath.apps.demointroandroid.SimpleBundleDemoActivity
+ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:77:9-80:20
+	android:label
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:79:13-70
+	android:name
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:78:13-83
+activity#codepath.apps.demointroandroid.SimpleReturnResultActivity
+ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:81:9-84:20
+	android:label
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:83:13-72
+	android:name
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:82:13-85
+activity#codepath.apps.demointroandroid.BasicImageDownloadActivity
+ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:85:9-88:20
+	android:label
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:87:13-72
+	android:name
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:86:13-85
+activity#codepath.apps.demointroandroid.AsyncTaskPerformActivity
+ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:89:9-92:20
+	android:label
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:91:13-70
+	android:name
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:90:13-83
+activity#codepath.apps.demointroandroid.SmartImageDownloadActivity
+ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:93:9-96:20
+	android:label
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:95:13-72
+	android:name
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:94:13-85
+activity#codepath.apps.demointroandroid.ToastFormInputsActivity
+ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:97:9-100:20
+	android:label
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:99:13-69
+	android:name
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:98:13-82
+activity#codepath.apps.demointroandroid.SpinnerWithToastActivity
+ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:101:9-104:20
+	android:label
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:103:13-70
+	android:name
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:102:13-83
+activity#codepath.apps.demointroandroid.TimePickerDemoActivity
+ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:105:9-108:20
+	android:label
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:107:13-68
+	android:name
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:106:13-81
+activity#codepath.apps.demointroandroid.ProgressBarActivity
+ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:109:9-112:20
+	android:label
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:111:13-64
+	android:name
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:110:13-78
+activity#codepath.apps.demointroandroid.GridViewDemoActivity
+ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:113:9-116:20
+	android:label
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:115:13-66
+	android:name
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:114:13-79
+activity#codepath.apps.demointroandroid.PersistSettingsActivity
+ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:117:9-120:20
+	android:label
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:119:13-68
+	android:name
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:118:13-82
+activity#codepath.apps.demointroandroid.ContactListActivity
+ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:121:9-124:20
+	android:label
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:123:13-64
+	android:name
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:122:13-78
+activity#codepath.apps.demointroandroid.PublishingInstructionsActivity
+ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:125:9-128:20
+	android:label
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:127:13-75
+	android:name
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:126:13-89
+uses-sdk
+INJECTED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/97ab857d0a124fe6ffaa0d9b5c9a7477/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/97ab857d0a124fe6ffaa0d9b5c9a7477/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/7892fca15a325049f033efb1f519445d/jetified-play-services-appindexing-9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/7892fca15a325049f033efb1f519445d/jetified-play-services-appindexing-9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:9.8.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/577134aaea8db4f6ac562b1a057624ea/jetified-play-services-base-9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:9.8.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/577134aaea8db4f6ac562b1a057624ea/jetified-play-services-base-9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:9.8.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/c66db2aa0917d588132f64b6fcb06a71/jetified-firebase-common-9.8.0/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-common:9.8.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/c66db2aa0917d588132f64b6fcb06a71/jetified-firebase-common-9.8.0/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/44c590eb417d32abaa9ba0ab2127dbf8/jetified-play-services-tasks-9.8.0/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/44c590eb417d32abaa9ba0ab2127dbf8/jetified-play-services-tasks-9.8.0/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/f8db4e8441308857164b6d65849d708e/jetified-play-services-basement-9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/f8db4e8441308857164b6d65849d708e/jetified-play-services-basement-9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/c88d66619ec8f43ac838aa15100c7630/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/c88d66619ec8f43ac838aa15100c7630/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.codepath.libraries:asynchttpclient:0.1.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/c5a2c57cafa3e322c4b3f75684a7887d/jetified-asynchttpclient-0.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.codepath.libraries:asynchttpclient:0.1.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/c5a2c57cafa3e322c4b3f75684a7887d/jetified-asynchttpclient-0.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/5dfc181d18e3a4f032df77a0a9b0b712/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/5dfc181d18e3a4f032df77a0a9b0b712/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/e4206093b9a45e350dc612d00a381b84/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/e4206093b9a45e350dc612d00a381b84/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/1c69513b1c4c2681731248e4bdf3dea9/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/1c69513b1c4c2681731248e4bdf3dea9/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/e71cc23e9f419a756f516a04cdb4b514/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/e71cc23e9f419a756f516a04cdb4b514/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/ed631860366d2431772b05c37dea72fa/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/ed631860366d2431772b05c37dea72fa/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/972e4e8c56534b8b7edcad39cbcb1475/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/972e4e8c56534b8b7edcad39cbcb1475/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/a56835e094a6f5a1d9bf8d5040e8cd94/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/a56835e094a6f5a1d9bf8d5040e8cd94/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/4c180ce42d5e5ff0386c56b48c8f03ec/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/4c180ce42d5e5ff0386c56b48c8f03ec/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/389518eb7053a2c7a204df84ba6b66f7/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/389518eb7053a2c7a204df84ba6b66f7/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/e5d2a05c2a9da194610e056d736306cb/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/e5d2a05c2a9da194610e056d736306cb/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/a8e60fa5adc4c9e4741e812d49e0f94e/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/a8e60fa5adc4c9e4741e812d49e0f94e/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/6f56ef3fa06b1f448b8e75b596d4ef77/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/6f56ef3fa06b1f448b8e75b596d4ef77/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/60f1f3386cbf00609d648d8f0647aaff/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/60f1f3386cbf00609d648d8f0647aaff/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/762bdf8d12f745b4783b848ecd2496ff/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/762bdf8d12f745b4783b848ecd2496ff/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/0968bae626bcece65791d08a4fff4993/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/0968bae626bcece65791d08a4fff4993/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/5b2ecece958ec2f11452775be3c19f79/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/5b2ecece958ec2f11452775be3c19f79/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/9c38a47f948754fe6306b7bf3155014b/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/9c38a47f948754fe6306b7bf3155014b/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/644c6c21b0c6112596c37bce273651e7/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/644c6c21b0c6112596c37bce273651e7/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/95246d214b9272a67f5e32aef14d289e/core-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/95246d214b9272a67f5e32aef14d289e/core-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/9119b921e1c49476d500fbb8512b747a/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/9119b921e1c49476d500fbb8512b747a/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/d7193147788872c0b27c94ab90dfc2ab/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/d7193147788872c0b27c94ab90dfc2ab/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/e2787de6841bee5c6c9584d51f2305b2/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/e2787de6841bee5c6c9584d51f2305b2/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/dc2dae51d49e25fa750583a5f511d50c/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/dc2dae51d49e25fa750583a5f511d50c/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/ed0de98415013de3fdbcc823866cf386/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/ed0de98415013de3fdbcc823866cf386/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/2e280ca0b8e4d3d46312ed0b649fa12b/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/2e280ca0b8e4d3d46312ed0b649fa12b/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/667e65f075c1064bff80cdcd97d456f3/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/667e65f075c1064bff80cdcd97d456f3/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.1] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/e8a2dd36019fe2cc80b35405d10af58c/jetified-stetho-okhttp3-1.5.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.1] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/e8a2dd36019fe2cc80b35405d10af58c/jetified-stetho-okhttp3-1.5.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho:1.5.1] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/a28f0ba6fb20525b271956ce3bfeafd1/jetified-stetho-1.5.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho:1.5.1] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/a28f0ba6fb20525b271956ce3bfeafd1/jetified-stetho-1.5.1/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/4074efa5e2edd1df1cc1644f3ddf8eae/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/4074efa5e2edd1df1cc1644f3ddf8eae/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/fdef9e23296ba4cb0938eae8aad4efde/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/fdef9e23296ba4cb0938eae8aad4efde/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/d5042bcee50fd9ba684f2391b663016a/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/d5042bcee50fd9ba684f2391b663016a/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/bd636c1699aa65212bfad6c4b658c7e4/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/bd636c1699aa65212bfad6c4b658c7e4/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.8.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/577134aaea8db4f6ac562b1a057624ea/jetified-play-services-base-9.8.0/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/577134aaea8db4f6ac562b1a057624ea/jetified-play-services-base-9.8.0/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/577134aaea8db4f6ac562b1a057624ea/jetified-play-services-base-9.8.0/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/577134aaea8db4f6ac562b1a057624ea/jetified-play-services-base-9.8.0/AndroidManifest.xml:19:19-85
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.8.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/c66db2aa0917d588132f64b6fcb06a71/jetified-firebase-common-9.8.0/AndroidManifest.xml:6:9-175
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.8.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/c66db2aa0917d588132f64b6fcb06a71/jetified-firebase-common-9.8.0/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.8.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/c66db2aa0917d588132f64b6fcb06a71/jetified-firebase-common-9.8.0/AndroidManifest.xml:6:125-149
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.8.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/c66db2aa0917d588132f64b6fcb06a71/jetified-firebase-common-9.8.0/AndroidManifest.xml:6:150-173
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.8.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/c66db2aa0917d588132f64b6fcb06a71/jetified-firebase-common-9.8.0/AndroidManifest.xml:6:79-124
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.8.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/f8db4e8441308857164b6d65849d708e/jetified-play-services-basement-9.8.0/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/f8db4e8441308857164b6d65849d708e/jetified-play-services-basement-9.8.0/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/f8db4e8441308857164b6d65849d708e/jetified-play-services-basement-9.8.0/AndroidManifest.xml:20:20-65

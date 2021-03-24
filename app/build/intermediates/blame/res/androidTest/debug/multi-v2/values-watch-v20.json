@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/5dfc181d18e3a4f032df77a0a9b0b712/appcompat-1.0.2/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

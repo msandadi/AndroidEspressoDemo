@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="android.support.test.internal.runner.junit3.AndroidTestSuite" tests="17" failures="0" errors="0" skipped="5" time="70.214" timestamp="2021-03-22T21:55:42" hostname="localhost">
+  <properties>
+    <property name="device" value="Pixel_API_26(AVD) - 8.0.0" />
+    <property name="flavor" value="" />
+    <property name="project" value="app" />
+  </properties>
+  <testcase name="null" classname="android.support.test.internal.runner.junit3.AndroidTestSuite" time="0.0">
+    <skipped />
+  </testcase>
+  <testcase name="null" classname="android.support.test.internal.runner.junit3.DelegatingFilterableTestSuite" time="0.0">
+    <skipped />
+  </testcase>
+  <testcase name="null" classname="android.support.test.internal.runner.junit3.DelegatingTestSuite" time="0.001">
+    <skipped />
+  </testcase>
+  <testcase name="null" classname="android.support.test.internal.runner.junit3.NonExecutingTestSuite" time="0.0">
+    <skipped />
+  </testcase>
+  <testcase name="null" classname="android.support.test.internal.runner.junit3.NonLeakyTestSuite" time="0.0">
+    <skipped />
+  </testcase>
+  <testcase name="testPermissionGranted" classname="codepath.apps.demointroandroid.ContactListActivityTest" time="2.152" />
+  <testcase name="checkGridViewHasImagesFromDrawable" classname="codepath.apps.demointroandroid.GridViewDemoActivityTest" time="1.453" />
+  <testcase name="verifyLastSaved" classname="codepath.apps.demointroandroid.PersistSettingsActivityTest" time="9.608" />
+  <testcase name="verifyEmptyText" classname="codepath.apps.demointroandroid.PersistSettingsActivityTest" time="1.972" />
+  <testcase name="verifyTextIsPersisted" classname="codepath.apps.demointroandroid.PersistSettingsActivityTest" time="3.925" />
+  <testcase name="checkWithTheTextChanges" classname="codepath.apps.demointroandroid.ProgressBarActivityTest" time="4.065" />
+  <testcase name="verifySelectedSpinnerOptionsTest" classname="codepath.apps.demointroandroid.SpinnerWithToastActivityTest" time="19.484" />
+  <testcase name="verifySetTimeInTimePicker" classname="codepath.apps.demointroandroid.TimePickerDemoActivityTest" time="4.048" />
+  <testcase name="verifyGreaterThan24Hours" classname="codepath.apps.demointroandroid.TimePickerDemoActivityTest" time="1.48" />
+  <testcase name="verifyCheckBoxIsSelected_SecondRadioButtonSelected" classname="codepath.apps.demointroandroid.ToastFormInputsActivityTest" time="4.141" />
+  <testcase name="verifyCheckBoxIsSelected_ThirdRadioButtonSelected" classname="codepath.apps.demointroandroid.ToastFormInputsActivityTest" time="3.417" />
+  <testcase name="verifyCheckBoxIsNotSelected_SecondRadioButtonSelected" classname="codepath.apps.demointroandroid.ToastFormInputsActivityTest" time="3.788" />
+</testsuite>

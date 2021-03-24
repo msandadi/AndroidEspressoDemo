@@ -1,0 +1,262 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!-- Chapter 1, Exercise 1: Change version data to 2 and 2.0 -->
+3<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+4    package="codepath.apps.demointroandroid"
+5    android:versionCode="2"
+6    android:versionName="2.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="21"
+9-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml
+10        android:targetSdkVersion="28" />
+10-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml
+11
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:8:5-67
+12-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:8:22-64
+13    <uses-permission android:name="android.permission.READ_CONTACTS" />
+13-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:9:5-71
+13-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:9:22-69
+14
+15    <application
+15-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:11:5-129:19
+16        android:allowBackup="true"
+16-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:12:9-35
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.0.1] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/95246d214b9272a67f5e32aef14d289e/core-1.0.1/AndroidManifest.xml:22:18-86
+18        android:debuggable="true"
+19        android:icon="@drawable/ic_launcher"
+19-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:13:9-45
+20        android:label="@string/app_name"
+20-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:14:9-41
+21        android:testOnly="true"
+22        android:theme="@style/AppTheme" >
+22-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:15:9-40
+23        <activity
+23-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:16:9-24:20
+24            android:name="codepath.apps.demointroandroid.DemoSelector"
+24-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:17:13-71
+25            android:label="@string/app_name" >
+25-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:18:13-45
+26            <intent-filter>
+26-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:19:13-23:29
+27                <action android:name="android.intent.action.MAIN" />
+27-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:20:17-69
+27-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:20:25-66
+28
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:22:17-77
+29-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:22:27-74
+30            </intent-filter>
+31        </activity>
+32        <activity
+32-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:25:9-28:20
+33            android:name="codepath.apps.demointroandroid.BasicTextViewActivity"
+33-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:26:13-80
+34            android:label="@string/title_activity_basic_text_view" >
+34-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:27:13-67
+35        </activity>
+36        <activity
+36-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:29:9-32:20
+37            android:name="codepath.apps.demointroandroid.LinearLayoutDemoActivity"
+37-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:30:13-83
+38            android:label="@string/title_activity_linear_layout_demo" >
+38-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:31:13-70
+39        </activity>
+40        <activity
+40-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:33:9-36:20
+41            android:name="codepath.apps.demointroandroid.LayoutGravityActivity"
+41-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:34:13-80
+42            android:label="@string/title_activity_layout_gravity" >
+42-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:35:13-66
+43        </activity>
+44        <activity
+44-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:37:9-40:20
+45            android:name="codepath.apps.demointroandroid.BasicViewsActivity"
+45-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:38:13-77
+46            android:label="@string/title_activity_basic_views" >
+46-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:39:13-63
+47        </activity>
+48        <activity
+48-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:41:9-44:20
+49            android:name="codepath.apps.demointroandroid.ViewAttributesActivity"
+49-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:42:13-81
+50            android:label="@string/title_activity_view_attributes" >
+50-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:43:13-67
+51        </activity>
+52        <activity
+52-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:45:9-48:20
+53            android:name="codepath.apps.demointroandroid.SimpleListViewActivity"
+53-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:46:13-81
+54            android:label="@string/title_activity_simple_list_view" >
+54-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:47:13-68
+55        </activity>
+56        <activity
+56-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:49:9-52:20
+57            android:name="codepath.apps.demointroandroid.BasicClickHandlersActivity"
+57-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:50:13-85
+58            android:label="@string/title_activity_basic_click_handlers" >
+58-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:51:13-72
+59        </activity>
+60        <activity
+60-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:53:9-56:20
+61            android:name="codepath.apps.demointroandroid.ButtonToastActivity"
+61-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:54:13-78
+62            android:label="@string/title_activity_button_toast" >
+62-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:55:13-64
+63        </activity>
+64        <activity
+64-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:57:9-60:20
+65            android:name="codepath.apps.demointroandroid.ListViewClicksActivity"
+65-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:58:13-81
+66            android:label="@string/title_activity_list_view_clicks" >
+66-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:59:13-68
+67        </activity>
+68        <activity
+68-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:61:9-64:20
+69            android:name="codepath.apps.demointroandroid.ExplicitIntentActivity"
+69-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:62:13-81
+70            android:label="@string/title_activity_explicit_intent" >
+70-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:63:13-67
+71        </activity>
+72        <activity
+72-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:65:9-68:20
+73            android:name="codepath.apps.demointroandroid.ImplicitIntentsActivity"
+73-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:66:13-82
+74            android:label="@string/title_activity_implicit_intents" >
+74-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:67:13-68
+75        </activity>
+76        <activity
+76-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:69:9-72:20
+77            android:name="codepath.apps.demointroandroid.IntentWithResultActivity"
+77-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:70:13-83
+78            android:label="@string/title_activity_intent_with_result" >
+78-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:71:13-70
+79        </activity>
+80        <activity
+80-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:73:9-76:20
+81            android:name="codepath.apps.demointroandroid.ActionBarMenuActivity"
+81-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:74:13-80
+82            android:label="@string/title_activity_action_bar_menu" >
+82-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:75:13-67
+83        </activity>
+84        <activity
+84-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:77:9-80:20
+85            android:name="codepath.apps.demointroandroid.SimpleBundleDemoActivity"
+85-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:78:13-83
+86            android:label="@string/title_activity_simple_bundle_demo" >
+86-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:79:13-70
+87        </activity>
+88        <activity
+88-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:81:9-84:20
+89            android:name="codepath.apps.demointroandroid.SimpleReturnResultActivity"
+89-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:82:13-85
+90            android:label="@string/title_activity_simple_return_result" >
+90-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:83:13-72
+91        </activity>
+92        <activity
+92-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:85:9-88:20
+93            android:name="codepath.apps.demointroandroid.BasicImageDownloadActivity"
+93-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:86:13-85
+94            android:label="@string/title_activity_basic_image_download" >
+94-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:87:13-72
+95        </activity>
+96        <activity
+96-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:89:9-92:20
+97            android:name="codepath.apps.demointroandroid.AsyncTaskPerformActivity"
+97-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:90:13-83
+98            android:label="@string/title_activity_async_task_perform" >
+98-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:91:13-70
+99        </activity>
+100        <activity
+100-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:93:9-96:20
+101            android:name="codepath.apps.demointroandroid.SmartImageDownloadActivity"
+101-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:94:13-85
+102            android:label="@string/title_activity_smart_image_download" >
+102-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:95:13-72
+103        </activity>
+104        <activity
+104-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:97:9-100:20
+105            android:name="codepath.apps.demointroandroid.ToastFormInputsActivity"
+105-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:98:13-82
+106            android:label="@string/title_activity_toast_form_inputs" >
+106-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:99:13-69
+107        </activity>
+108        <activity
+108-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:101:9-104:20
+109            android:name="codepath.apps.demointroandroid.SpinnerWithToastActivity"
+109-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:102:13-83
+110            android:label="@string/title_activity_spinner_with_toast" >
+110-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:103:13-70
+111        </activity>
+112        <activity
+112-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:105:9-108:20
+113            android:name="codepath.apps.demointroandroid.TimePickerDemoActivity"
+113-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:106:13-81
+114            android:label="@string/title_activity_time_picker_demo" >
+114-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:107:13-68
+115        </activity>
+116        <activity
+116-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:109:9-112:20
+117            android:name="codepath.apps.demointroandroid.ProgressBarActivity"
+117-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:110:13-78
+118            android:label="@string/title_activity_progress_bar" >
+118-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:111:13-64
+119        </activity>
+120        <activity
+120-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:113:9-116:20
+121            android:name="codepath.apps.demointroandroid.GridViewDemoActivity"
+121-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:114:13-79
+122            android:label="@string/title_activity_grid_view_demo" >
+122-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:115:13-66
+123        </activity>
+124        <activity
+124-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:117:9-120:20
+125            android:name="codepath.apps.demointroandroid.PersistSettingsActivity"
+125-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:118:13-82
+126            android:label="@string/title_activity_persist_settings" >
+126-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:119:13-68
+127        </activity>
+128        <activity
+128-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:121:9-124:20
+129            android:name="codepath.apps.demointroandroid.ContactListActivity"
+129-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:122:13-78
+130            android:label="@string/title_activity_contact_list" >
+130-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:123:13-64
+131        </activity>
+132        <activity
+132-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:125:9-128:20
+133            android:name="codepath.apps.demointroandroid.PublishingInstructionsActivity"
+133-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:126:13-89
+134            android:label="@string/title_activity_publishing_instructions" >
+134-->/Users/mallikasandadi/git_projects/AndroidEspressoDemo/app/src/main/AndroidManifest.xml:127:13-75
+135        </activity>
+136        <activity
+136-->[com.google.android.gms:play-services-base:9.8.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/577134aaea8db4f6ac562b1a057624ea/jetified-play-services-base-9.8.0/AndroidManifest.xml:19:9-172
+137            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+137-->[com.google.android.gms:play-services-base:9.8.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/577134aaea8db4f6ac562b1a057624ea/jetified-play-services-base-9.8.0/AndroidManifest.xml:19:19-85
+138            android:exported="false"
+138-->[com.google.android.gms:play-services-base:9.8.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/577134aaea8db4f6ac562b1a057624ea/jetified-play-services-base-9.8.0/AndroidManifest.xml:19:146-170
+139            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+139-->[com.google.android.gms:play-services-base:9.8.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/577134aaea8db4f6ac562b1a057624ea/jetified-play-services-base-9.8.0/AndroidManifest.xml:19:86-145
+140
+141        <provider
+141-->[com.google.firebase:firebase-common:9.8.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/c66db2aa0917d588132f64b6fcb06a71/jetified-firebase-common-9.8.0/AndroidManifest.xml:6:9-175
+142            android:name="com.google.firebase.provider.FirebaseInitProvider"
+142-->[com.google.firebase:firebase-common:9.8.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/c66db2aa0917d588132f64b6fcb06a71/jetified-firebase-common-9.8.0/AndroidManifest.xml:6:79-124
+143            android:authorities="codepath.apps.demointroandroid.firebaseinitprovider"
+143-->[com.google.firebase:firebase-common:9.8.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/c66db2aa0917d588132f64b6fcb06a71/jetified-firebase-common-9.8.0/AndroidManifest.xml:6:19-78
+144            android:exported="false"
+144-->[com.google.firebase:firebase-common:9.8.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/c66db2aa0917d588132f64b6fcb06a71/jetified-firebase-common-9.8.0/AndroidManifest.xml:6:125-149
+145            android:initOrder="100" />
+145-->[com.google.firebase:firebase-common:9.8.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/c66db2aa0917d588132f64b6fcb06a71/jetified-firebase-common-9.8.0/AndroidManifest.xml:6:150-173
+146
+147        <meta-data
+147-->[com.google.android.gms:play-services-basement:9.8.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/f8db4e8441308857164b6d65849d708e/jetified-play-services-basement-9.8.0/AndroidManifest.xml:20:9-121
+148            android:name="com.google.android.gms.version"
+148-->[com.google.android.gms:play-services-basement:9.8.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/f8db4e8441308857164b6d65849d708e/jetified-play-services-basement-9.8.0/AndroidManifest.xml:20:20-65
+149            android:value="@integer/google_play_services_version" />
+149-->[com.google.android.gms:play-services-basement:9.8.0] /Users/mallikasandadi/.gradle/caches/transforms-2/files-2.1/f8db4e8441308857164b6d65849d708e/jetified-play-services-basement-9.8.0/AndroidManifest.xml:20:66-119
+150    </application>
+151
+152</manifest>
